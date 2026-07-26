@@ -13,7 +13,7 @@ This project presents an interactive **Sales Performance Dashboard** built using
 * Compare sales across product categories.
 * Understand customer types and payment preferences.
 * Monitor sales trends over time.
-* Evaluate profitability and discounts.
+* Evaluate discounts.
 
 ---
 
