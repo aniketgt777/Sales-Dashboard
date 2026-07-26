@@ -79,9 +79,3 @@ The dataset contains the following fields:
 * Data Modeling
 * Data Analysis
 * Interactive Reporting
-
----
-
-## 📷 Dashboard Preview
-
-*Add a screenshot of your Power BI dashboard here.*
